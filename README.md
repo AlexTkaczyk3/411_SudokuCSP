@@ -4,9 +4,6 @@ Course: CS 411
 Instructor: Bing Liu
 Project: Sudoku-CSP
 
-												Sudoku README
---------------------------------------------------------------------------------------------------------------------------------------------------
-
 (i) what each function is for
 BacktrackSearch Class:
 	checkSafety(ArrayList<ArrayList<Integer>> grid, int row, int column, int newNumber)
@@ -37,7 +34,6 @@ Sudoku Class:
 (iii) which functions are for backtrack search
 	runSearch(ArrayList<ArrayList<Integer>> originalGrid, int row, int column)
 
---------------------------------------------------------------------------------------------------------------------------------------------------
  Instructions on how program was ran on machine
  1. Open terminal
  2. Enter path where files are present
