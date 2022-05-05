@@ -1,8 +1,8 @@
 # 411_SudokuCSP
-Author: Alex Tkaczyk
-Course: CS 411
-Instructor: Bing Liu
-Project: Sudoku-CSP
+Author: Alex Tkaczyk\
+Course: CS 411\
+Instructor: Bing Liu\
+Project: Sudoku-CSP\
 
 (i) what each function is for
 BacktrackSearch Class:
