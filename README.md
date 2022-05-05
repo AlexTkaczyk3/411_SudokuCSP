@@ -26,11 +26,11 @@ Sudoku Class:
 		write contents of solutionGrid to solution.txt
 	main(String[] args)
 		overall function that handles overall logisitics i.e. I/O method, function calls
---
+
 (ii) which functions are for consistency check
 	checkSafety(ArrayList<ArrayList<Integer>> grid, int row, int column, int newNumber) ---- (check for valid moves)
 	runSearch(ArrayList<ArrayList<Integer>> originalGrid, int row, int column) ---- (portion that checks for empty space)
---
+
 (iii) which functions are for backtrack search
 	runSearch(ArrayList<ArrayList<Integer>> originalGrid, int row, int column)
 
