@@ -2,7 +2,7 @@
 Author: Alex Tkaczyk\
 Course: CS 411\
 Instructor: Bing Liu\
-Project: Sudoku-CSP\
+Project: Sudoku-CSP
 
 (i) what each function is for
 BacktrackSearch Class:
